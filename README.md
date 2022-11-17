@@ -4,7 +4,7 @@
 ![Header Pic](https://i.ibb.co/hsdyFd2/Screenshot-20221117-121623.png)
 
 ## Prerequisites
-* VS Code + LiveServer Extension or WAMPServer <br>
+* Visual Studio Code + LiveServer Extension or WAMPServer <br>
 [VSCode](https://code.visualstudio.com),
 [VSCode LiveServer Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or 
 [WAMPServer](https://www.wampserver.com/en/)
@@ -13,5 +13,5 @@
 [Allow Cors](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf)
 
 ## Installation
-
-
+### For Visual Studio Code
+1. It's up to you to figure it out lmao
